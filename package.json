@@ -1,0 +1,32 @@
+{
+  "name": "microauth-token",
+  "version": "0.1.0",
+  "description": "Token auth wrapper for zeit/micro",
+  "repository": "https://github.com/maxfi/microauth-token",
+  "main": "index.js",
+  "scripts": {
+    "test": "xo"
+  },
+  "files": [
+    "index.js"
+  ],
+  "author": "maxfi",
+  "license": "MIT",
+  "keywords": [
+    "micro"
+  ],
+  "xo": {
+    "space": true,
+    "semicolon": false,
+    "prettier": true
+  },
+  "peerDependencies": {
+    "micro": "^9.1.0"
+  },
+  "dependencies": {
+    "micro-query": "^0.2.0"
+  },
+  "devDependencies": {
+    "xo": "^0.20.3"
+  }
+}

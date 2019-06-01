@@ -1,6 +1,6 @@
 {
   "name": "microauth-token",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Token auth wrapper for zeit/micro",
   "repository": "https://github.com/maxfi/microauth-token",
   "main": "index.js",

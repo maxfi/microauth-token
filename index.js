@@ -11,6 +11,7 @@ module.exports = name => {
       err.statusCode = 401
       throw err
     }
+
     return fn(req, res)
   }
 }

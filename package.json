@@ -24,9 +24,9 @@
     "micro": "^9.1.0"
   },
   "dependencies": {
-    "micro-query": "^0.2.0"
+    "micro-query": "^0.3.0"
   },
   "devDependencies": {
-    "xo": "^0.20.3"
+    "xo": "^0.24.0"
   }
 }
